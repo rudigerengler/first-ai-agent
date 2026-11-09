@@ -1,0 +1,11 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+.venv/
+
+# Python generated files
+__pycache__/
+*.pyc
